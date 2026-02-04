@@ -1,0 +1,163 @@
+{
+    "date": "2026-02-04",
+    "lead": {
+          "headline": "EEOC Releases 2026 Enforcement Priorities, Signals Increased Focus on AI Hiring Tools",
+          "url": "https://www.eeoc.gov/",
+          "source": "EEOC.gov",
+          "category": "FEDERAL POLICY"
+    },
+    "headlines": [
+          {
+                  "headline": "Fourth Circuit Rules Mandatory Arbitration Clauses Cannot Bar EEOC Pattern-or-Practice Claims",
+                  "url": "#",
+                  "source": "Reuters",
+                  "category": "EEOC & DISCRIMINATION"
+          },
+          {
+                  "headline": "EEOC Settles $2.3M Pregnancy Discrimination Case Against National Retailer",
+                  "url": "#",
+                  "source": "Law360",
+                  "category": "EEOC & DISCRIMINATION"
+          },
+          {
+                  "headline": "Religious Accommodation Requests Up 40% Since 2020, SHRM Survey Finds",
+                  "url": "#",
+                  "source": "SHRM",
+                  "category": "EEOC & DISCRIMINATION"
+          },
+          {
+                  "headline": "NLRB General Counsel Issues Memo on Captive Audience Meeting Remedies",
+                  "url": "#",
+                  "source": "NLRB.gov",
+                  "category": "NLRB & LABOR"
+          },
+          {
+                  "headline": "Starbucks Union Push Reaches 500 Stores as Company Appeals Board Rulings",
+                  "url": "#",
+                  "source": "Bloomberg Law",
+                  "category": "NLRB & LABOR"
+          },
+          {
+                  "headline": "Amazon Warehouse Workers in Kentucky File for Union Election",
+                  "url": "#",
+                  "source": "Louisville Courier Journal",
+                  "category": "NLRB & LABOR"
+          },
+          {
+                  "headline": "DOL Announces Final Rule Raising Salary Threshold for Overtime Exemptions to $58,656",
+                  "url": "#",
+                  "source": "DOL.gov",
+                  "category": "WAGE & HOUR"
+          },
+          {
+                  "headline": "Federal Judge Blocks FTC Noncompete Ban Nationwide, Appeal Expected",
+                  "url": "#",
+                  "source": "Wall Street Journal",
+                  "category": "WAGE & HOUR"
+          },
+          {
+                  "headline": "Ninth Circuit: Meal Break Premiums Are Wages Subject to Waiting Time Penalties",
+                  "url": "#",
+                  "source": "California Employment Law Report",
+                  "category": "WAGE & HOUR"
+          },
+          {
+                  "headline": "EEOC Issues Updated Guidance on Long COVID as ADA Disability",
+                  "url": "#",
+                  "source": "EEOC.gov",
+                  "category": "ADA & ACCOMMODATIONS"
+          },
+          {
+                  "headline": "Remote Work as Reasonable Accommodation: Courts Split on Post-Pandemic Standards",
+                  "url": "#",
+                  "source": "HR Dive",
+                  "category": "ADA & ACCOMMODATIONS"
+          },
+          {
+                  "headline": "DOL Clarifies FMLA Eligibility for Employees at Remote Worksites",
+                  "url": "#",
+                  "source": "DOL.gov",
+                  "category": "LEAVE & BENEFITS"
+          },
+          {
+                  "headline": "Paid Family Leave Laws Now Cover 30% of U.S. Workers Across 13 States",
+                  "url": "#",
+                  "source": "National Partnership",
+                  "category": "LEAVE & BENEFITS"
+          },
+          {
+                  "headline": "OFCCP Proposes New Diversity Reporting Requirements for Federal Contractors",
+                  "url": "#",
+                  "source": "OFCCP.gov",
+                  "category": "DEI & WORKPLACE CULTURE"
+          },
+          {
+                  "headline": "Supreme Court to Hear Challenge to Corporate DEI Programs in October Term",
+                  "url": "#",
+                  "source": "SCOTUSblog",
+                  "category": "SUPREME COURT"
+          },
+          {
+                  "headline": "Illinois Becomes First State to Require AI Hiring Tool Bias Audits",
+                  "url": "#",
+                  "source": "Chicago Tribune",
+                  "category": "AI & HR TECH"
+          },
+          {
+                  "headline": "NYC AI Bias Law Enforcement Begins: What Employers Need to Know",
+                  "url": "#",
+                  "source": "SHRM",
+                  "category": "AI & HR TECH"
+          },
+          {
+                  "headline": "OSHA Proposes First Federal Heat Stress Standard for Indoor and Outdoor Workers",
+                  "url": "#",
+                  "source": "OSHA.gov",
+                  "category": "WORKPLACE SAFETY"
+          },
+          {
+                  "headline": "Workplace Violence Prevention Laws Expand: Kentucky, California Lead State Efforts",
+                  "url": "#",
+                  "source": "Safety+Health Magazine",
+                  "category": "WORKPLACE SAFETY"
+          },
+          {
+                  "headline": "USCIS Announces H-1B Lottery Results, Selection Rate Drops to Historic Low",
+                  "url": "#",
+                  "source": "USCIS.gov",
+                  "category": "IMMIGRATION"
+          }
+    ],
+    "stateRoundup": [
+          {
+                  "state": "California",
+                  "headline": "New Pay Transparency Law Requires Salary Ranges in All Job Postings",
+                  "url": "#"
+          },
+          {
+                  "state": "New York",
+                  "headline": "NYC Expands Paid Safe Leave to Cover Additional Family Members",
+                  "url": "#"
+          },
+          {
+                  "state": "Texas",
+                  "headline": "Fifth Circuit Upholds State Law Limiting Municipal Employment Ordinances",
+                  "url": "#"
+          },
+          {
+                  "state": "Kentucky",
+                  "headline": "Healthcare Workplace Violence Felony Law Implementation Guidance Released",
+                  "url": "#"
+          },
+          {
+                  "state": "Colorado",
+                  "headline": "POWR Act Amendments Clarify Harassment and Discrimination Procedures",
+                  "url": "#"
+          },
+          {
+                  "state": "Washington",
+                  "headline": "State Supreme Court Expands Whistleblower Protections to Gig Workers",
+                  "url": "#"
+          }
+    ]
+}
