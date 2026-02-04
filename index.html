@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HRLawWire - Employment Law & HR Compliance News</title>
+      <meta name="description" content="Daily curated employment law, HR compliance, and workplace policy news for HR professionals and employment attorneys.">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600&display=swap" rel="stylesheet">
+      <style>
+                :root {
+                              --primary: #1a1a2e;
+                              --accent: #c41e3a;
+                              --accent-hover: #a01830;
+                              --text: #2d2d2d;
+                              --text-light: #666;
+                              --bg: #fafafa;
+                              --card-bg: #ffffff;
+                              --border: #e0e0e0;
+                              --link: #1a5f7a;
+                              --link-hover: #c41e3a;
+                }
+                * { margin: 0; padding: 0; box-sizing: border-box; }
+                body { font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; }
+                header { background: var(--primary); color: white; padding: 1rem 0; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+                .header-content { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+                .logo { font-family: 'IBM Plex Serif', Georgia, serif; font-size: 1.75rem; font-weight: 600; letter-spacing: -0.5px; }
+                .logo span { color: var(--accent); }
+                .tagline { font-size: 0.8rem; opacity: 0.8; margin-top: 0.25rem; }
+                .date-display { text-align: right; font-size: 0.85rem; }
+                .date-display .day { font-weight: 600; }
+                main { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
+                .lead-story { background: var(--card-bg); border: 1px solid var(--border); border-left: 4px solid var(--accent); padding: 1.5rem; margin-bottom: 1.5rem; border-radius: 4px; }
+                .lead-story .category { color: var(--accent); font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.5rem; }
+                .lead-story h2 { font-family: 'IBM Plex Serif', Georgia, serif; font-size: 1.5rem; line-height: 1.3; margin-bottom: 0.5rem; }
+                .lead-story h2 a { color: var(--text); text-decoration: none; }
+                .lead-story h2 a:hover { color: var(--accent); }
+                .lead-story .source { font-size: 0.8rem; color: var(--text-light); }
+                .headlines-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; }
+                .category-section { background: var(--card-bg); border: 1px solid var(--border); border-radius: 4px; overflow: hidden; }
+                .category-header { background: var(--primary); color: white; padding: 0.75rem 1rem; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+                .category-headlines { padding: 0.75rem 1rem; }
+                .headline-item { padding: 0.6rem 0; border-bottom: 1px solid var(--border); }
+                .headline-item:last-child { border-bottom: none; }
+                .headline-item a { color: var(--link); text-decoration: none; font-size: 0.95rem; line-height: 1.4; display: block; }
+                .headline-item a:hover { color: var(--link-hover); }
+                .headline-item .source { font-size: 0.75rem; color: var(--text-light); margin-top: 0.25rem; }
+                .state-roundup { background: var(--card-bg); border: 1px solid var(--border); border-radius: 4px; margin-top: 1.5rem; overflow: hidden; }
+                .state-roundup .category-header { background: #2d4a5e; }
+                .state-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; padding: 1rem; }
+                .state-item { padding: 0.5rem 0; }
+                .state-item .state-name { font-weight: 600; color: var(--accent); font-size: 0.8rem; text-transform: uppercase; }
+                .state-item a { color: var(--link); text-decoration: none; font-size: 0.9rem; }
+                .state-item a:hover { color: var(--link-hover); }
+                footer { max-width: 1400px; margin: 2rem auto 0; padding: 1.5rem; border-top: 1px solid var(--border); text-align: center; color: var(--text-light); font-size: 0.85rem; }
+                footer a { color: var(--link); text-decoration: none; }
+                @media (max-width: 768px) {
+                              .header-content { flex-direction: column; text-align: center; gap: 0.5rem; }
+                              .date-display { text-align: center; }
+                              .logo { font-size: 1.5rem; }
+                              .lead-story h2 { font-size: 1.25rem; }
+                              .headlines-grid { grid-template-columns: 1fr; }
+                              main { padding: 1rem; }
+                }
+                .loading { text-align: center; padding: 3rem; color: var(--text-light); }
+            </style>
+  </head>
+  <body>
+        <header>
+                  <div class="header-content">
+                                <div>
+                                                  <div class="logo">HR<span>Law</span>Wire</div>
+                                                <div class="tagline">Employment Law & HR Compliance News</div>
+                                </div>
+                              <div class="date-display">
+                                              <div class="day" id="current-day"></div>
+                                              <div id="current-date"></div>
+                              </div>
+                  </div>
+        </header>
+      <main>
+                <div id="lead-story" class="lead-story" style="display:none;"></div>
+                <div id="headlines-grid" class="headlines-grid">
+                              <div class="loading">Loading today's headlines...</div>
+                </div>
+                <div id="state-roundup" class="state-roundup" style="display:none;"></div>
+      </main>
+        <footer>
+                  <p>&copy; 2026 HRLawWire. Curated daily for HR professionals.</p>
+                <p style="margin-top: 0.5rem;"><a href="mailto:tips@hrlawwire.com">Submit a tip</a>a> · <a href="#about">About</a>a></p>
+        </footer>
+      <script>
+                const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+                const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+                const now = new Date();
+                document.getElementById('current-day').textContent = days[now.getDay()];
+                document.getElementById('current-date').textContent = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
+                async function loadHeadlines() {
+                              try {
+                                                const response = await fetch('headlines.json');
+                                                const data = await response.json();
+                                                renderHeadlines(data);
+                              } catch (error) {
+                                                document.getElementById('headlines-grid').innerHTML = '<div class="loading">Unable to load headlines. Please refresh.</div>';
+                              }
+                }
+                function renderHeadlines(data) {
+                              const grid = document.getElementById('headlines-grid');
+                              grid.innerHTML = '';
+                              if (data.lead) {
+                                                const leadDiv = document.getElementById('lead-story');
+                                                leadDiv.style.display = 'block';
+                                                leadDiv.innerHTML = '<div class="category">' + data.lead.category + '</div><h2><a href="' + data.lead.url + '" target="_blank">' + data.lead.headline + '</a></h2><div class="source">' + data.lead.source + '</div>';
+                              }
+                              const categories = {};
+                              data.headlines.forEach(item => {
+                                                if (!categories[item.category]) categories[item.category] = [];
+                                                categories[item.category].push(item);
+                              });
+                              const categoryOrder = ['EEOC & DISCRIMINATION', 'NLRB & LABOR', 'WAGE & HOUR', 'ADA & ACCOMMODATIONS', 'LEAVE & BENEFITS', 'DEI & WORKPLACE CULTURE', 'AI & HR TECH', 'WORKPLACE SAFETY', 'IMMIGRATION', 'SUPREME COURT', 'FEDERAL POLICY'];
+                              categoryOrder.forEach(cat => {
+                                                if (categories[cat] && categories[cat].length > 0) {
+                                                                      const section = document.createElement('div');
+                                                                      section.className = 'category-section';
+                                                                      let html = '<div class="category-header">' + cat + '</div><div class="category-headlines">';
+                                                                      categories[cat].forEach(item => {
+                                                                                                html += '<div class="headline-item"><a href="' + item.url + '" target="_blank">' + item.headline + '</a><div class="source">' + item.source + '</div></div>';
+                                                                      });
+                                                                      html += '</div>';
+                                                                      section.innerHTML = html;
+                                                                      grid.appendChild(section);
+                                                }
+                              });
+                              if (data.stateRoundup && data.stateRoundup.length > 0) {
+                                                const stateDiv = document.getElementById('state-roundup');
+                                                stateDiv.style.display = 'block';
+                                                let html = '<div class="category-header">STATE & LOCAL UPDATES</div><div class="state-grid">';
+                                                data.stateRoundup.forEach(item => {
+                                                                      html += '<div class="state-item"><div class="state-name">' + item.state + '</div><a href="' + item.url + '" target="_blank">' + item.headline + '</a></div>';
+                                                });
+                                                html += '</div>';
+                                                stateDiv.innerHTML = html;
+                              }
+                }
+                loadHeadlines();
+      </script>
+  </body>
+</html>html>
+      </script></p>
+        </footer>
+      </main></span>
+                                </div>
+        </header>
+  </body>
+      </style></title>
+  </head>
