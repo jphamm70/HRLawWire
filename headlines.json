@@ -1,163 +1,145 @@
 {
-    "date": "2026-02-04",
+    "date": "2026-02-06",
     "lead": {
-          "headline": "EEOC Releases 2026 Enforcement Priorities, Signals Increased Focus on AI Hiring Tools",
-          "url": "https://www.eeoc.gov/",
-          "source": "EEOC.gov",
-          "category": "FEDERAL POLICY"
+          "headline": "EEOC Files Subpoena Enforcement Action Against Nike Over Alleged Discrimination Against White Workers",
+          "url": "https://justthenews.com/government/federal-agencies/eeoc-files-subpoena-enforcement-action-against-nike-over-alleged",
+          "source": "Just The News",
+          "category": "EEOC & DISCRIMINATION"
     },
     "headlines": [
           {
-                  "headline": "Fourth Circuit Rules Mandatory Arbitration Clauses Cannot Bar EEOC Pattern-or-Practice Claims",
-                  "url": "https://www.laborandemploymentlawcounsel.com/2018/07/recent-decision-clarifies-the-legal-framework-for-eeocs-pattern-or-practice-lawsuits-under-section-706/",
-                  "source": "Reuters",
+                  "headline": "Fresh Venture Foods to Pay $900,000 to Settle EEOC Sexual Harassment and Retaliation Lawsuit",
+                  "url": "https://www.eeoc.gov/newsroom",
+                  "source": "EEOC.gov",
                   "category": "EEOC & DISCRIMINATION"
           },
           {
-                  "headline": "EEOC Settles $2.3M Pregnancy Discrimination Case Against National Retailer",
-                  "url": "https://www.eeoc.gov/newsroom/ups-pay-225-million-settle-eeoc-pregnancy-discrimination-charge",
-                  "source": "Law360",
+                  "headline": "Feit Electric Agrees to Pay $100,000 to Settle EEOC Pregnancy Discrimination Lawsuit",
+                  "url": "https://www.eeoc.gov/newsroom",
+                  "source": "EEOC.gov",
                   "category": "EEOC & DISCRIMINATION"
           },
           {
-                  "headline": "Religious Accommodation Requests Up 40% Since 2020, SHRM Survey Finds",
-                  "url": "https://www.shrm.org/topics-tools/employment-law-compliance/religious-accommodation-requests-may-result-conflicts",
-                  "source": "SHRM",
-                  "category": "EEOC & DISCRIMINATION"
-          },
-          {
-                  "headline": "NLRB General Counsel Issues Memo on Captive Audience Meeting Remedies",
-                  "url": "https://www.nlrb.gov/news-outreach/news-story/nlrb-general-counsel-jennifer-abruzzo-issues-memo-on-captive-audience-and",
-                  "source": "NLRB.gov",
-                  "category": "NLRB & LABOR"
-          },
-          {
-                  "headline": "Starbucks Union Push Reaches 500 Stores as Company Appeals Board Rulings",
-                  "url": "https://news.bloomberglaw.com/daily-labor-report/starbucks-nlrb-to-clash-again-in-court-with-no-end-in-sight",
+                  "headline": "Second Circuit Rejects Constitutional Attack on NLRB In-House Judges, Deepening Circuit Split",
+                  "url": "https://news.bloomberglaw.com/daily-labor-report/nlrb-survives-nursing-homes-constitutional-attack-in-2d-cir",
                   "source": "Bloomberg Law",
                   "category": "NLRB & LABOR"
           },
           {
-                  "headline": "Amazon Warehouse Workers in Kentucky File for Union Election",
-                  "url": "https://www.yahoo.com/news/why-kentucky-amazon-workers-picketing-165020294.html",
-                  "source": "Louisville Courier Journal",
+                  "headline": "SF Teachers Union Announces First Strike in 50 Years as 11th-Hour Bargaining Continues",
+                  "url": "https://sfist.com/2026/02/05/sf-teachers-union-announces-strike-for-monday-but-eleventh-hour-bargaining-continues/",
+                  "source": "SFist",
                   "category": "NLRB & LABOR"
           },
           {
-                  "headline": "DOL Announces Final Rule Raising Salary Threshold for Overtime Exemptions to $58,656",
-                  "url": "https://www.dol.gov/agencies/whd/overtime/rulemaking",
-                  "source": "DOL.gov",
+                  "headline": "Contentious Colorado Labor Union Bill Clears First Hurdle of 2026 Legislative Session",
+                  "url": "https://www.cbsnews.com/colorado/news/colorado-labor-union-bill-2026-legislative-session-clears-first-hurdle/",
+                  "source": "CBS News Colorado",
+                  "category": "NLRB & LABOR"
+          },
+          {
+                  "headline": "Second Chance Workers Reach $173K Settlement in Wage-Theft Lawsuit",
+                  "url": "https://www.capitalgazette.com/2026/02/03/second-chance-wage-lawsuit/",
+                  "source": "Capital Gazette",
                   "category": "WAGE & HOUR"
           },
           {
-                  "headline": "Federal Judge Blocks FTC Noncompete Ban Nationwide, Appeal Expected",
-                  "url": "https://www.washingtonpost.com/business/2024/08/20/noncompete-ban-injunction-texas/",
-                  "source": "Wall Street Journal",
-                  "category": "WAGE & HOUR"
-          },
-          {
-                  "headline": "Ninth Circuit: Meal Break Premiums Are Wages Subject to Waiting Time Penalties",
-                  "url": "https://www.californiaemploymentlawreport.com/2024/05/navigating-compliance-how-the-naranjo-decision-benefits-california-employers/",
-                  "source": "California Employment Law Report",
-                  "category": "WAGE & HOUR"
-          },
-          {
-                  "headline": "EEOC Issues Updated Guidance on Long COVID as ADA Disability",
-                  "url": "https://www.eeoc.gov/wysk/what-you-should-know-about-covid-19-and-ada-rehabilitation-act-and-other-eeo-laws",
-                  "source": "EEOC.gov",
-                  "category": "ADA & ACCOMMODATIONS"
-          },
-          {
-                  "headline": "Remote Work as Reasonable Accommodation: Courts Split on Post-Pandemic Standards",
-                  "url": "https://www.hrdive.com/news/telecommuting-becomes-a-more-reasonable-ada-accommodation-every-year/518824/",
+                  "headline": "FTC Holds Workshop on Noncompete Agreements, Signals Targeted Enforcement Over Blanket Ban",
+                  "url": "https://www.hrdive.com/news/ftc-hearing-noncompete-ban-not-on-table/810769/",
                   "source": "HR Dive",
-                  "category": "ADA & ACCOMMODATIONS"
+                  "category": "WAGE & HOUR"
           },
           {
-                  "headline": "DOL Clarifies FMLA Eligibility for Employees at Remote Worksites",
-                  "url": "https://www.dol.gov/sites/dolgov/files/WHD/fab/2023-1.pdf",
+                  "headline": "DOL Issues New FLSA Opinion Letters Clarifying Overtime Exemptions and Employee Classification",
+                  "url": "https://www.dol.gov/newsroom/releases/whd/whd20260105",
                   "source": "DOL.gov",
+                  "category": "WAGE & HOUR"
+          },
+          {
+                  "headline": "New Jersey Enacts Historic Expansion of Family Leave Act, Small Employers Now Covered",
+                  "url": "https://ogletree.com/insights-resources/blog-posts/new-jersey-enacts-historic-expansion-of-the-new-jersey-family-leave-act/",
+                  "source": "Ogletree Deakins",
                   "category": "LEAVE & BENEFITS"
           },
           {
-                  "headline": "Paid Family Leave Laws Now Cover 30% of U.S. Workers Across 13 States",
-                  "url": "https://nationalpartnership.org/report/paid-leave-means-map/",
-                  "source": "National Partnership",
+                  "headline": "In 2026, More Workers Nationwide Than Ever Will Have Paid Leave as Three States Launch Programs",
+                  "url": "https://www.abetterbalance.org/in-2026-more-workers-nationwide-than-ever-will-have-paid-leave-new-laws-you-should-know-about",
+                  "source": "A Better Balance",
                   "category": "LEAVE & BENEFITS"
           },
           {
-                  "headline": "OFCCP Proposes New Diversity Reporting Requirements for Federal Contractors",
-                  "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20230320",
-                  "source": "OFCCP.gov",
+                  "headline": "2026 Brings New DOL Opinion Letters on FMLA Business Closures, Travel Time, and PTO Interaction",
+                  "url": "https://www.lexology.com/library/detail.aspx?g=a08c853a-38ea-400f-bd38-ef7a3592ead4",
+                  "source": "Lexology",
+                  "category": "LEAVE & BENEFITS"
+          },
+          {
+                  "headline": "Corporate DEI Index Sees 65% Drop in Fortune 500 Participation Amid Federal Scrutiny",
+                  "url": "https://www.cnbc.com/2026/02/04/corporate-dei-index-hrc.html",
+                  "source": "CNBC",
                   "category": "DEI & WORKPLACE CULTURE"
           },
           {
-                  "headline": "Supreme Court to Hear Challenge to Corporate DEI Programs in October Term",
-                  "url": "https://www.scotusblog.com/2025/08/supreme-court-allows-trump-administration-to-terminate-783-million-in-nih-grants-linked-to-dei-initiatives/",
-                  "source": "SCOTUSblog",
-                  "category": "SUPREME COURT"
+                  "headline": "EEOC and DOJ Signal Heightened Scrutiny of Corporate DEI Programs in 2025-2026 Update",
+                  "url": "https://www.laboremployment-lawblog.com/2025-2026-federal-labor-employment-law-update-eeoc-and-doj-signal-heightened-scrutiny-of-dei-programs/",
+                  "source": "Dykema Labor & Employment Blog",
+                  "category": "DEI & WORKPLACE CULTURE"
           },
           {
-                  "headline": "Illinois Becomes First State to Require AI Hiring Tool Bias Audits",
-                  "url": "https://www.chicagotribune.com/2025/12/28/new-illinois-laws-2026/",
-                  "source": "Chicago Tribune",
+                  "headline": "Several State AI Employment Laws Take Effect in 2026 Despite Federal Push to Eliminate State Regulations",
+                  "url": "https://natlawreview.com/article/several-state-ai-laws-set-go-effect-2026-despite-federal-governments-push-eliminate",
+                  "source": "National Law Review",
                   "category": "AI & HR TECH"
           },
           {
-                  "headline": "NYC AI Bias Law Enforcement Begins: What Employers Need to Know",
-                  "url": "https://www.shrm.org/topics-tools/news/technology/nyc-clarifies-who-and-what-is-covered-under-ai-bias-law",
-                  "source": "SHRM",
-                  "category": "AI & HR TECH"
-          },
-          {
-                  "headline": "OSHA Proposes First Federal Heat Stress Standard for Indoor and Outdoor Workers",
-                  "url": "https://www.osha.gov/heat-exposure/rulemaking",
-                  "source": "OSHA.gov",
+                  "headline": "OSHA Electronic Injury Reporting Deadline Looms for High-Hazard Employers by March 2",
+                  "url": "https://www.californiaworkplacelawblog.com/2026/01/articles/workplace-safety/california-employers-reminder-to-post-2026-osha-form-300a-by-february-1/",
+                  "source": "California Workplace Law Blog",
                   "category": "WORKPLACE SAFETY"
           },
           {
-                  "headline": "Workplace Violence Prevention Laws Expand: Kentucky, California Lead State Efforts",
-                  "url": "https://ogletree.com/insights-resources/blog-posts/states-ramp-up-workplace-violence-prevention-efforts-with-new-legislation-in-2025/",
-                  "source": "Safety+Health Magazine",
-                  "category": "WORKPLACE SAFETY"
-          },
-          {
-                  "headline": "USCIS Announces H-1B Lottery Results, Selection Rate Drops to Historic Low",
-                  "url": "https://www.uscis.gov/newsroom/alerts/notice-of-fy-2025-h-1b-cap-initial-registration-selection-process-completion-and-cap-season",
+                  "headline": "DHS Finalizes Weighted H-1B Lottery to Prioritize Higher-Paid Workers, Effective Feb. 27",
+                  "url": "https://www.uscis.gov/newsroom/news-releases/dhs-changes-process-for-awarding-h-1b-work-visas-to-better-protect-american-workers",
                   "source": "USCIS.gov",
                   "category": "IMMIGRATION"
+          },
+          {
+                  "headline": "House Panel Advances Bill to Modernize Federal Worker Buyout Caps",
+                  "url": "https://www.govexec.com/pay-benefits/2026/02/house-panel-advances-bill-update-federal-worker-buyout-caps/411206/",
+                  "source": "Government Executive",
+                  "category": "FEDERAL POLICY"
           }
     ],
     "stateRoundup": [
           {
                   "state": "California",
-                  "headline": "New Pay Transparency Law Requires Salary Ranges in All Job Postings",
-                  "url": "https://ogletree.com/insights-resources/blog-posts/california-refines-pay-transparency-requirements/"
+                  "headline": "'Know Your Rights' Workplace Notice Mandate Takes Effect, Penalties Reach $500 Per Employee",
+                  "url": "https://www.hrdive.com/news/california-2026-employment-law-changes/808622/"
           },
           {
                   "state": "New York",
-                  "headline": "NYC Expands Paid Safe Leave to Cover Additional Family Members",
-                  "url": "https://www.seyfarth.com/news-insights/if-pain-yes-gain-part-135-new-york-city-expands-paid-safe-and-sick-time-benefits.html"
-          },
-          {
-                  "state": "Texas",
-                  "headline": "Fifth Circuit Upholds State Law Limiting Municipal Employment Ordinances",
-                  "url": "https://www.texastribune.org/2025/07/18/texas-legislature-death-star-law-city-ordinances-limits/"
-          },
-          {
-                  "state": "Kentucky",
-                  "headline": "Healthcare Workplace Violence Felony Law Implementation Guidance Released",
-                  "url": "https://www.kyha.com/kha-releases-workplace-violence-guide-for-members/"
+                  "headline": "NYC Expands Earned Safe and Sick Time Act With Unpaid Leave Bank, Effective Feb. 22",
+                  "url": "https://www.fisherphillips.com/en/news-insights/new-laws-for-new-york-employers-in-the-new-year.html"
           },
           {
                   "state": "Colorado",
-                  "headline": "POWR Act Amendments Clarify Harassment and Discrimination Procedures",
-                  "url": "https://www.littler.com/publication-press/publication/colorados-powr-act-significantly-expands-workplace-harassment-laws"
+                  "headline": "Non-Compete Threshold Set at $130,014 and Youth Employment Rules Go Permanent Feb. 1",
+                  "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026"
+          },
+          {
+                  "state": "Minnesota",
+                  "headline": "Paid Family and Medical Leave Program Launches, Joining 13 States With Active Programs",
+                  "url": "https://www.fisherphillips.com/en/news-insights/employer-cheat-sheet-for-workplace-laws-taking-effect-january-1-2026.html"
+          },
+          {
+                  "state": "New Jersey",
+                  "headline": "Governor Murphy Signs Historic Expansion of Family Leave Act Covering Small Employers",
+                  "url": "https://ogletree.com/insights-resources/blog-posts/new-jersey-enacts-historic-expansion-of-the-new-jersey-family-leave-act/"
           },
           {
                   "state": "Washington",
-                  "headline": "State Supreme Court Expands Whistleblower Protections to Gig Workers",
-                  "url": "https://natlawreview.com/article/washington-s-new-law-presents-sweeping-changes-to-gig-economy"
+                  "headline": "19 States Raise Minimum Wage Jan. 1; Washington Leads at $17.13/hr",
+                  "url": "https://www.fisherphillips.com/en/news-insights/employer-cheat-sheet-for-workplace-laws-taking-effect-january-1-2026.html"
           }
     ]
 }
