@@ -1,11 +1,11 @@
 [README.md](https://github.com/user-attachments/files/25081876/README.md)
-# HRLawWire
+# HRLawBrief
 
 Daily curated employment law, HR compliance, and workplace policy news for HR professionals and employment attorneys.
 
 ## About
 
-HRLawWire is a Drudge Report-style news aggregator focused exclusively on HR and employment law topics. Updated daily with the most important headlines across:
+HRLawBrief is a Drudge Report-style news aggregator focused exclusively on HR and employment law topics. Updated daily with the most important headlines across:
 
 - EEOC & Discrimination
 - NLRB & Labor Relations
@@ -41,8 +41,8 @@ Hosted on Netlify with automatic deploys from this repository.
 
 ## Contact
 
-tips@hrlawwire.com
+tips@hrlawbrief.com
 
 ---
 
-© 2026 HRLawWire
+© 2026 HRLawBrief
