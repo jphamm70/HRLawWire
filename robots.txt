@@ -1,0 +1,9 @@
+# HRLawBrief robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://hrlawbrief.com/sitemap.xml
+
+# Crawl-delay for courtesy
+Crawl-delay: 1
