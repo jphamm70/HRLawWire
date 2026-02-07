@@ -1,76 +1,106 @@
 {
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "lead": {
-    "headline": "EEOC Files Subpoena Enforcement Action Against Nike Over Alleged DEI-Related Discrimination Against White Workers",
-    "url": "https://www.eeoc.gov/newsroom/eeoc-files-subpoena-enforcement-action-against-nike",
+    "headline": "Kickback Jack's Restaurants to Pay Record $1.1M Settlement in EEOC Sex Discrimination Case Against Male Applicants",
+    "url": "https://www.eeoc.gov/newsroom",
     "source": "EEOC.gov",
     "category": "EEOC & DISCRIMINATION"
   },
   "headlines": [
     {
-      "headline": "Kickback Jack’s to Pay $1.1M to Settle EEOC Sex-Based Hiring Discrimination Lawsuit Against Male Applicants",
+      "headline": "Fresh Venture Foods to Pay $900K in EEOC Sexual Harassment Class Action Settlement Announced This Week",
       "url": "https://www.eeoc.gov/newsroom",
       "source": "EEOC.gov",
       "category": "EEOC & DISCRIMINATION"
     },
     {
-      "headline": "EEOC Rescinds 2024 Workplace Harassment Guidance in 2-1 Vote, Citing Gender Identity Provisions",
+      "headline": "Hotel Equities Group Settles EEOC Lawsuit for Pregnancy and Religious Accommodation Violations",
+      "url": "https://www.eeoc.gov/newsroom",
+      "source": "EEOC.gov",
+      "category": "EEOC & DISCRIMINATION"
+    },
+    {
+      "headline": "Feit Electric to Pay $100K in EEOC Pregnancy Discrimination Settlement Announced Feb. 3",
+      "url": "https://www.eeoc.gov/newsroom/feit-electric-inc-pay-100000-eeoc-pregnancy-discrimination-lawsuit",
+      "source": "EEOC.gov",
+      "category": "EEOC & DISCRIMINATION"
+    },
+    {
+      "headline": "EEOC Votes 2-1 to Rescind 2024 Workplace Harassment Guidance Over Gender Identity Provisions",
       "url": "https://www.employmentlawworldview.com/quick-hits-updates-at-the-eeoc-and-nlrb-to-start-2026-us/",
       "source": "Employment Law Worldview",
       "category": "EEOC & DISCRIMINATION"
     },
     {
-      "headline": "EEOC Publishes Anti-American Bias Guidance, Signals National Origin Discrimination as 2026 Priority",
-      "url": "https://www.hrdive.com/news/eeoc-hints-at-2026-priorities-with-national-origin-bias-guidance/806115/",
-      "source": "HR Dive",
-      "category": "EEOC & DISCRIMINATION"
+      "headline": "NLRB Republican Majority Declines to Overturn Biden-Era Precedent in First Major Ruling, Preserves Union-Friendly Standards",
+      "url": "https://www.laborrelationsupdate.com/2026/02/nlrb-refrain-from-overturning-biden-era-precedent-for-now/",
+      "source": "Labor Relations Update",
+      "category": "NLRB & LABOR"
     },
     {
-      "headline": "NLRB Regains Quorum After Year-Long Vacancy, Poised to Reverse Biden-Era Labor Precedents",
-      "url": "https://natlawreview.com/article/top-3-labor-law-developments-watch-2026",
+      "headline": "Crystal S. Carey Sworn In as New NLRB General Counsel, Signals Enforcement Priorities for 2026",
+      "url": "https://www.employmentlawworldview.com/quick-hits-updates-at-the-eeoc-and-nlrb-to-start-2026-us/",
+      "source": "Employment Law Worldview",
+      "category": "NLRB & LABOR"
+    },
+    {
+      "headline": "NLRB Implements New Charge Filing Protocols With Mandatory Two-Week Document Submission Window",
+      "url": "https://natlawreview.com/article/quick-hits-updates-eeoc-and-nlrb-start-2026-us",
       "source": "National Law Review",
       "category": "NLRB & LABOR"
     },
     {
-      "headline": "Fifth Circuit Upholds Injunctions Barring NLRB Proceedings, Deepening Constitutional Challenge to Board’s Structure",
+      "headline": "Fifth Circuit Ruling Deepens Constitutional Challenge to NLRB Structure, Upholds Injunctions Barring Board Proceedings",
       "url": "https://www.cdflaborlaw.com/blog/fifth-circuit-ruling-puts-nlrb-on-constitutional-hot-seat",
       "source": "CDF Labor Law",
       "category": "NLRB & LABOR"
     },
     {
-      "headline": "Federal Court Grants NLRB Injunction Blocking California AB 288 Law Expanding State Authority Over Private-Sector Labor Cases",
-      "url": "https://www.msk.com/newsroom-alerts-nlrb-injunction-against-ca",
-      "source": "Mitchell Silberberg & Knupp",
-      "category": "NLRB & LABOR"
-    },
-    {
-      "headline": "DOL Issues Six New FLSA and FMLA Opinion Letters Clarifying Overtime Exemptions, Bonuses, and Compensable Time",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/01/dol-issues-six-new-opinion-letters-on-flsa-and-fmla-compliance",
-      "source": "Holland & Knight",
+      "headline": "DOL Wage and Hour Division Issues New FLSA Guidance: Mandatory Roll Call Time Counts as 'Hours Worked' for Overtime",
+      "url": "https://www.lexology.com/library/detail.aspx?g=f755eaa9-d3ee-4565-9238-e141d354951a",
+      "source": "Lexology",
       "category": "WAGE & HOUR"
     },
     {
-      "headline": "FTC Holds Noncompete Workshop, Pivots to Case-by-Case Enforcement After Nationwide Ban Blocked",
-      "url": "https://www.ftc.gov/news-events/events/2026/01/moving-forward-protecting-workers-anticompetitive-noncompete-agreements",
-      "source": "FTC.gov",
+      "headline": "19 States Implement Minimum Wage Increases in 2026; Six States Reach $15/Hour Milestone",
+      "url": "https://www.fisherphillips.com/en/news-insights/employer-cheat-sheet-for-workplace-laws-taking-effect-january-1-2026.html",
+      "source": "Fisher Phillips",
       "category": "WAGE & HOUR"
     },
     {
-      "headline": "DOL Clarifies Section 7(i) Overtime Exemption: Tips, Service Charges, and Federal Minimum Wage Standards for Commissioned Employees",
-      "url": "https://www.littler.com/news-analysis/asap/dol-clarifies-application-minimum-wage-and-tips-under-flsas-commissioned",
-      "source": "Littler",
+      "headline": "California Minimum Wage Jumps to $16.90, Pushes Exempt Employee Salary Threshold to $70,304",
+      "url": "https://www.adp.com/spark/articles/2026/01/48-state-specific-hr-compliance-changes-for-2026.aspx",
+      "source": "ADP SPARK",
       "category": "WAGE & HOUR"
     },
     {
-      "headline": "Minnesota Paid Family and Medical Leave Program Launches, Offering Up to 20 Weeks Combined Leave",
-      "url": "https://paidleave.mn.gov/",
-      "source": "Minnesota Paid Leave",
+      "headline": "FTC Holds Noncompete Workshop After Federal Ban Blocked, Signals Case-by-Case Enforcement Strategy",
+      "url": "https://www.fisherphillips.com/en/news-insights/employer-cheat-sheet-for-workplace-laws-taking-effect-january-1-2026.html",
+      "source": "Fisher Phillips",
+      "category": "WAGE & HOUR"
+    },
+    {
+      "headline": "Minnesota Paid Family and Medical Leave Program Launches With Up to 20 Weeks Combined Leave Coverage",
+      "url": "https://www.thehrdigest.com/minnesotas-paid-leave-law-goes-into-effect-in-2026-what-you-need-to-know/",
+      "source": "The HR Digest",
       "category": "LEAVE & BENEFITS"
     },
     {
-      "headline": "NYC Expands Earned Safe and Sick Time Act With Unpaid Leave Bank and Prenatal Leave, Effective Feb. 22",
-      "url": "https://www.ebglaw.com/insights/publications/2026-family-and-medical-leave-law-updates-what-employers-in-seven-states-need-to-know",
-      "source": "Epstein Becker Green",
+      "headline": "NYC Expands Earned Safe and Sick Time Act: New Unpaid Leave Bank and Codified Prenatal Leave Take Effect Feb. 22",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026",
+      "source": "Faegre Drinker",
+      "category": "LEAVE & BENEFITS"
+    },
+    {
+      "headline": "California Paid Sick Leave Expands to Crime Victims; Employers Must Provide Written Notice by Feb. 1",
+      "url": "https://www.govdocs.com/paid-sick-leave-laws-by-state/",
+      "source": "GovDocs",
+      "category": "LEAVE & BENEFITS"
+    },
+    {
+      "headline": "Illinois Family Neonatal ICU Leave Act: Employers Must Provide Up to 20 Days for NICU Parents Starting June 1",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026",
+      "source": "Faegre Drinker",
       "category": "LEAVE & BENEFITS"
     },
     {
@@ -80,21 +110,39 @@
       "category": "DEI & WORKPLACE CULTURE"
     },
     {
-      "headline": "Gibson Dunn DEI Task Force Update: EEOC and DOJ Intensify Scrutiny of Corporate Diversity Programs",
+      "headline": "Texas AG Issues Opinion Challenging Legality of Public and Private Sector DEI Programs",
       "url": "https://www.gibsondunn.com/dei-task-force-update-february-2-2026/",
       "source": "Gibson Dunn",
       "category": "DEI & WORKPLACE CULTURE"
     },
     {
-      "headline": "Several State AI Employment Laws Take Effect in 2026 Despite Federal Push to Eliminate State Regulations",
-      "url": "https://natlawreview.com/article/several-state-ai-laws-set-go-effect-2026-despite-federal-governments-push-eliminate",
-      "source": "National Law Review",
+      "headline": "Gibson Dunn DEI Task Force: EEOC and DOJ Intensify Scrutiny of Corporate Diversity Programs",
+      "url": "https://www.gibsondunn.com/dei-task-force-update-february-2-2026/",
+      "source": "Gibson Dunn",
+      "category": "DEI & WORKPLACE CULTURE"
+    },
+    {
+      "headline": "Illinois AI Employment Disclosure Law Takes Effect Jan. 1: Employers Must Notify Workers of AI Use in Hiring and Discipline",
+      "url": "https://www.seyfarth.com/news-insights/legal-update-new-illinois-ai-law-requires-employee-notice-affirms-existing-employer-nondiscrimination-duties.html",
+      "source": "Seyfarth Shaw",
       "category": "AI & HR TECH"
     },
     {
-      "headline": "Illinois Becomes First State to Amend Human Rights Act to Cover AI in Employment Decisions",
-      "url": "https://www.thehrdigest.com/revisiting-2026-state-ai-laws-that-aim-to-regulate-ai-in-employment/",
-      "source": "The HR Digest",
+      "headline": "Illinois Amends Human Rights Act: AI-Based Employment Discrimination Now Expressly Prohibited With Private Right of Action",
+      "url": "https://ogletree.com/insights-resources/blog-posts/illinois-unveils-draft-notice-rules-on-ai-use-in-employment-ahead-of-discrimination-ban/",
+      "source": "Ogletree Deakins",
+      "category": "AI & HR TECH"
+    },
+    {
+      "headline": "Colorado Postpones Landmark AI Act Until June 30 After Failed Legislative Negotiations",
+      "url": "https://www.seyfarth.com/news-insights/artificial-intelligence-legal-roundup-colorado-postpones-implementation-of-ai-law-as-california-finalizes-new-employment-discrimination-regulations-and-illinois-disclosure-law-set-to-take-effect.html",
+      "source": "Seyfarth Shaw",
+      "category": "AI & HR TECH"
+    },
+    {
+      "headline": "State AI Laws Create Patchwork Compliance Challenge Despite Federal Push to Eliminate Regulations",
+      "url": "https://natlawreview.com/article/several-state-ai-laws-set-go-effect-2026-despite-federal-governments-push-eliminate",
+      "source": "National Law Review",
       "category": "AI & HR TECH"
     },
     {
@@ -104,13 +152,13 @@
       "category": "WORKPLACE SAFETY"
     },
     {
-      "headline": "DHS Finalizes Wage-Weighted H-1B Lottery to Prioritize Higher-Paid Workers, Effective Feb. 27",
-      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-changes-process-for-awarding-h-1b-work-visas-to-better-protect-american-workers",
-      "source": "USCIS.gov",
+      "headline": "DHS Ends H-1B Random Lottery Feb. 27, Implements Wage-Based Selection Giving Level IV Workers 4x Higher Selection Odds",
+      "url": "https://cilawgroup.com/news/2025/12/23/dhs-wage-based-weighted-selection-process-for-h-1b-cap-lottery/",
+      "source": "Capitol Immigration Law Group",
       "category": "IMMIGRATION"
     },
     {
-      "headline": "OPM Finalizes Schedule Policy/Career Rule Making 50,000 Federal Workers Easier to Fire, Effective March 8",
+      "headline": "OPM Finalizes Schedule F Policy Making 50,000 Federal Workers Easier to Fire, Effective March 8",
       "url": "https://www.govexec.com/workforce/2026/02/trump-admin-moves-finalize-return-schedule-f/411239/",
       "source": "Government Executive",
       "category": "FEDERAL POLICY"
@@ -119,33 +167,43 @@
   "stateRoundup": [
     {
       "state": "California",
-      "headline": "Workplace 'Know Your Rights' Notice Mandate Takes Effect, Requires Written Advisory on Constitutional Rights",
-      "url": "https://www.hansonbridgett.com/publication/251218-6000-2026-california-labor-employment-update"
+      "headline": "AB 406 Expands Leave Protection for Violence Victims and Family Members to Seek Legal and Medical Services",
+      "url": "https://ogletree.com/insights-resources/blog-posts/employer-compliance-watchlist-key-state-laws-effective-january-1-2026/"
+    },
+    {
+      "state": "California",
+      "headline": "Paid Family Leave Expanded to Cover 'Designated Person' Beyond Traditional Family Relationships",
+      "url": "https://www.kmklaw.com/labor-employment/expansion-of-state-paid-leave-laws-in-2026"
     },
     {
       "state": "New York",
-      "headline": "City Council Overrides Mayoral Veto, Enacts Pay Data Reporting for Employers With 200+ Workers",
+      "headline": "NYC Council Enacts Pay Data Reporting for Employers With 200+ Workers After Veto Override",
       "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026"
+    },
+    {
+      "state": "New York",
+      "headline": "Minimum Salary for Exempt Employees Rises to $1,275/Week in NYC Area, $1,199/Week Statewide",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026"
+    },
+    {
+      "state": "Illinois",
+      "headline": "Blood and Organ Donation Leave Act Amended to Cover Part-Time Employees",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026"
+    },
+    {
+      "state": "Illinois",
+      "headline": "Nursing Mothers in Workplace Act Now Requires Paid Breaks at Regular Rate of Pay",
+      "url": "https://ogletree.com/insights-resources/blog-posts/employer-compliance-watchlist-key-state-laws-effective-january-1-2026/"
+    },
+    {
+      "state": "Minnesota",
+      "headline": "Paid Family and Medical Leave Program Launches With Up to 20 Weeks Combined Leave",
+      "url": "https://paidleave.mn.gov/"
     },
     {
       "state": "Texas",
       "headline": "New Law Limits Physician Non-Competes to One Year and Five Miles, Expands to Dentists and Nurses",
       "url": "https://ogletree.com/insights-resources/blog-posts/employer-compliance-watchlist-key-state-laws-effective-january-1-2026/"
-    },
-    {
-      "state": "Minnesota",
-      "headline": "Paid Family and Medical Leave Program Launches With Benefits and Contributions Starting Simultaneously",
-      "url": "https://paidleave.mn.gov/"
-    },
-    {
-      "state": "Colorado",
-      "headline": "AI Act Enforcement Delayed to June 30; Non-Compete Threshold Set at $130,014 for 2026",
-      "url": "https://natlawreview.com/article/several-state-ai-laws-set-go-effect-2026-despite-federal-governments-push-eliminate"
-    },
-    {
-      "state": "New Jersey",
-      "headline": "Governor Murphy Signs Historic Expansion of Family Leave Act Now Covering Small Employers",
-      "url": "https://www.ebglaw.com/insights/publications/2026-family-and-medical-leave-law-updates-what-employers-in-seven-states-need-to-know"
     }
   ]
 }
