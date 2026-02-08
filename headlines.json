@@ -44,6 +44,12 @@
       "category": "EEOC & DISCRIMINATION"
     },
     {
+      "headline": "SHRM State of the Workplace 2026: 72% of HR Leaders Report Workers Have Higher Expectations as Burnout and Salaries Top Concerns",
+      "url": "https://www.shrm.org/topics-tools/research/state-of-the-workplace-summary-and-report",
+      "source": "SHRM",
+      "category": "HR TRENDS & RESEARCH"
+    },
+    {
       "headline": "Crystal S. Carey Sworn In as New NLRB General Counsel, Signals Enforcement Priorities for 2026",
       "url": "https://www.employmentlawworldview.com/quick-hits-updates-at-the-eeoc-and-nlrb-to-start-2026-us/",
       "source": "Employment Law Worldview",
@@ -110,6 +116,12 @@
       "category": "LEAVE & BENEFITS"
     },
     {
+      "headline": "SHRM Alert: HIPAA Privacy Notices Must Be Updated by Feb. 16 for Substance Use Disorder Records Compliance",
+      "url": "https://www.shrm.org/mena/topics-tools/employment-law-compliance/hipaa-privacy-notices-must-be-updated-by-feb-16",
+      "source": "SHRM",
+      "category": "LEAVE & BENEFITS"
+    },
+    {
       "headline": "Illinois Family Neonatal ICU Leave Act: Employers Must Provide Up to 20 Days for NICU Parents Starting June 1",
       "url": "https://www.faegredrinker.com/en/insights/publications/2026/1/state-and-local-employment-law-developments-q1-2026",
       "source": "Faegre Drinker",
@@ -132,6 +144,12 @@
       "url": "https://www.gibsondunn.com/dei-task-force-update-february-2-2026/",
       "source": "Gibson Dunn",
       "category": "DEI & WORKPLACE CULTURE"
+    },
+    {
+      "headline": "SHRM Research: AI Integration Transforms HR Recruiting and Management, Raising Compliance Risks Around Algorithmic Bias and Data Privacy",
+      "url": "https://www.shrm.org/advocacy/new-year-brings-new-ai-regulations-for-hr",
+      "source": "SHRM",
+      "category": "AI & HR TECH"
     },
     {
       "headline": "Illinois AI Employment Disclosure Law Takes Effect Jan. 1: Employers Must Notify Workers of AI Use in Hiring and Discipline",
@@ -174,9 +192,21 @@
       "url": "https://www.govexec.com/workforce/2026/02/trump-admin-moves-finalize-return-schedule-f/411239/",
       "source": "Government Executive",
       "category": "FEDERAL POLICY"
+    },
+    {
+      "headline": "SHRM Survey: 72% of CEOs Expect Increased Use of Independent Contractors, Gig Workers and Freelancers in 2026",
+      "url": "https://www.shrm.org/about/press-room/what-will-work-look-like-in-2026--new-shrm-research-reveals-how-",
+      "source": "SHRM",
+      "category": "HR TRENDS & RESEARCH"
     }
   ],
   "stateRoundup": [
+    {
+      "state": "Massachusetts",
+      "headline": "Pay Data Reporting Deadline Feb. 2: Employers With 100+ Workers Must Submit Reports to Comply With State Transparency Laws",
+      "url": "https://www.shrm.org/topics-tools/employment-law-compliance/state-and-local-updates",
+      "source": "SHRM"
+    },
     {
       "state": "California",
       "headline": "AB 406 Expands Leave Protection for Violence Victims and Family Members to Seek Legal and Medical Services",
