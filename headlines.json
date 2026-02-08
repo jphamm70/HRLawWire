@@ -1,14 +1,26 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "lead": {
-    "headline": "Kickback Jack's Restaurants to Pay Record $1.1M Settlement in EEOC Sex Discrimination Case Against Male Applicants",
-    "url": "https://www.eeoc.gov/newsroom",
-    "source": "EEOC.gov",
-    "category": "EEOC & DISCRIMINATION"
+    "headline": "DOL Rolls Back Federal Contractor Minimum Wage to $13.65, Reversing Biden-Era $15 Mandate",
+    "url": "https://www.law360.com/articles/2438957/dol-rolls-out-new-minimum-wage-for-federal-contractors",
+    "source": "Law360",
+    "category": "WAGE & HOUR"
   },
   "headlines": [
     {
-      "headline": "Fresh Venture Foods to Pay $900K in EEOC Sexual Harassment Class Action Settlement Announced This Week",
+      "headline": "Kickback Jack's Restaurants to Pay $1.1M in EEOC Sex Discrimination Case Against Male Applicants",
+      "url": "https://www.eeoc.gov/newsroom",
+      "source": "EEOC.gov",
+      "category": "EEOC & DISCRIMINATION"
+    },
+    {
+      "headline": "NLRB Announces Three-Member Majority Required to Overturn Precedent, Preserving Biden-Era Union Protections",
+      "url": "https://www.nlrbedge.com/p/02022026-new-board-says-it-will-not",
+      "source": "NLRB Edge",
+      "category": "NLRB & LABOR"
+    },
+    {
+      "headline": "Fresh Venture Foods to Pay $900K in EEOC Sexual Harassment Class Action Settlement",
       "url": "https://www.eeoc.gov/newsroom",
       "source": "EEOC.gov",
       "category": "EEOC & DISCRIMINATION"
@@ -32,12 +44,6 @@
       "category": "EEOC & DISCRIMINATION"
     },
     {
-      "headline": "NLRB Republican Majority Declines to Overturn Biden-Era Precedent in First Major Ruling, Preserves Union-Friendly Standards",
-      "url": "https://www.laborrelationsupdate.com/2026/02/nlrb-refrain-from-overturning-biden-era-precedent-for-now/",
-      "source": "Labor Relations Update",
-      "category": "NLRB & LABOR"
-    },
-    {
       "headline": "Crystal S. Carey Sworn In as New NLRB General Counsel, Signals Enforcement Priorities for 2026",
       "url": "https://www.employmentlawworldview.com/quick-hits-updates-at-the-eeoc-and-nlrb-to-start-2026-us/",
       "source": "Employment Law Worldview",
@@ -54,6 +60,12 @@
       "url": "https://www.cdflaborlaw.com/blog/fifth-circuit-ruling-puts-nlrb-on-constitutional-hot-seat",
       "source": "CDF Labor Law",
       "category": "NLRB & LABOR"
+    },
+    {
+      "headline": "DOL Issues FLSA Opinion Letter Clarifying Minimum Wage and Tip Credit Rules for Commissioned Employees",
+      "url": "https://www.littler.com/news-analysis/asap/dol-clarifies-application-minimum-wage-and-tips-under-flsas-commissioned",
+      "source": "Littler",
+      "category": "WAGE & HOUR"
     },
     {
       "headline": "DOL Wage and Hour Division Issues New FLSA Guidance: Mandatory Roll Call Time Counts as 'Hours Worked' for Overtime",
